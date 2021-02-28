@@ -1,0 +1,10 @@
+version: '3'
+services:
+  apach:
+    container_name: sample-apache #作成されていると出来ないので新しく作成する場合ここの名前を変更
+    build: ./  #apachのDockerfileを使用してコンテナ作成
+    ports:
+      - 81:80
+    volumes:
+      - ./html:/var/www/html # コンテナ var/www/html の中に/apach/htmlの中身を入れる
+
