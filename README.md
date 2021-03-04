@@ -1,8 +1,8 @@
-# 出力まで
+# 出力までの経過記事
 
 https://qiita.com/sachiko-kame/items/a7534d71f2155b06111d
 
-<<記事作成中>>
+https://qiita.com/sachiko-kame/items/bf5480f4d7c751ab28aa
 
 
 # 出力イメージ
