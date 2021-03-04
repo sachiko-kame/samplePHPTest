@@ -7,4 +7,3 @@ services:
       - 81:80
     volumes:
       - ./html:/var/www/html # コンテナ var/www/html の中に/apach/htmlの中身を入れる
-
