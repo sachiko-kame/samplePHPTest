@@ -24,9 +24,9 @@ $ docker-machine ip default
 
 ↓
 
-<<ipアドレス>>:81/simple　でアクセス
-<<ipアドレス>>:81/simple/sample.php ※何も表示されません
-<<ipアドレス>>:81//info.php
+<<ipアドレス>>:81/simple　でアクセス  
+<<ipアドレス>>:81/simple/sample.php ※何も表示されません  
+<<ipアドレス>>:81//info.php  
 
 # テスト
 
